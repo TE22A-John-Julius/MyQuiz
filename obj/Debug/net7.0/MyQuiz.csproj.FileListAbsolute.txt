@@ -1,0 +1,14 @@
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\bin\Debug\net7.0\MyQuiz.exe
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\bin\Debug\net7.0\MyQuiz.deps.json
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\bin\Debug\net7.0\MyQuiz.runtimeconfig.json
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\bin\Debug\net7.0\MyQuiz.dll
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\bin\Debug\net7.0\MyQuiz.pdb
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\MyQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\MyQuiz.AssemblyInfoInputs.cache
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\MyQuiz.AssemblyInfo.cs
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\MyQuiz.csproj.CoreCompileInputs.cache
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\MyQuiz.dll
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\refint\MyQuiz.dll
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\MyQuiz.pdb
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\MyQuiz.genruntimeconfig.cache
+C:\Users\julius.john\Documents\Programmering_Uppgifter\Quiz\MyQuiz\obj\Debug\net7.0\ref\MyQuiz.dll
